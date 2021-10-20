@@ -1,0 +1,5 @@
+
+
+export const CREATE_CAMPUS = 'CREATE_CAMPUS'
+
+export const CHECK_CAMPUS_DATA = 'CHECK_CAMPUS_DATA'

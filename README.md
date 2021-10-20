@@ -1,0 +1,2 @@
+# energy-manager-kpi
+ DiplomaApp
